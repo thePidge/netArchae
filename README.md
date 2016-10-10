@@ -1,7 +1,6 @@
 # netArchae 
-Version 3.1.3 of Autopsy Required
-Autopsy Module that extracts Packet Captures (pcaps) from Data Sources.
-It sorts them under a "PCAPs" tab within "Interesting Files" and allows the extracted pcaps to be parsed by KeywordSearch.
+###Version 3.1.3 of Autopsy Required
+This Autopsy Module extracts Packet Captures (pcaps) from Data Sources. It then sorts them under a "PCAPs" tab within "Interesting Files" and allows the extracted pcaps to be parsed by KeywordSearch.
 
 In order to use this module, you must have Autopsy version 3.1.3 installed. 
 
