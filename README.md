@@ -17,4 +17,3 @@ d. Close out of the Python Plugins folder
 6. Check the box next to the modules you would like to run
   a. in this case, choose NetArchae (note that you can choose multiple modules)
 7. Once the module has run, provided it yields results, you will see a new "PCAPs" tab under "Interesting Items". You can also see extracted pcaps by generating a report or clicking on the "Ingest Messages" icon.
-
